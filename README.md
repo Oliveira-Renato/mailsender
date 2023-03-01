@@ -9,7 +9,7 @@ Send email using this code if you manage to understand it!
 ## You're good to go 
 
 ## :test_tube: Tecnologias 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Technologies used:
 * [PHP](https://www.php.net/)
 * [COMPOSER](https://getcomposer.org/)
 
