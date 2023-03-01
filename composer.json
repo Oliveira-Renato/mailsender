@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.7",
+        "vlucas/phpdotenv": "^5.4",
+        "vlucas/phpdotenv" : "~2.2",
+        "twig/twig": "^3.0"
+    }
+}
